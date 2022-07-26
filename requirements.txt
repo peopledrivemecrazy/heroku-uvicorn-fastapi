@@ -1,0 +1,10 @@
+Click
+fastapi
+gunicorn
+h11
+httptools
+pydantic
+starlette
+uvicorn
+uvloop
+websockets
